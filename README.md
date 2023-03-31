@@ -5,6 +5,7 @@
 - A web of color generator
 - Colors are displayed with different weights
 - The color can be changed by setting the value or selecting from color input and then clicking the generate button
+- The color hex value can be fetched by clicking on the color block on the web
 
 ### A capture of the web
 
